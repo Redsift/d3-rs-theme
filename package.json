@@ -34,7 +34,7 @@
     "seedrandom": "^2.4.2",
     "browser-sync": "^2.13.0",
     "del": "^2.2.1",
-    "eslint": "^3.0.1",
+    "eslint": "^6.6.0",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
     "gulp-sourcemaps": "^2.0.0-alpha",
